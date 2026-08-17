@@ -25,8 +25,6 @@ JavaScript
 
 Back-End:
 
-Python
-
 Java
 
 FastAPI
