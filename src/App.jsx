@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 
+
 export default function App() {
   const [message, setMessage] = useState('Connecting to Java backend...');
 
@@ -14,9 +15,9 @@ export default function App() {
   }, []);
 
   return (
-    <div style={{ padding: '2rem', fontFamily: 'sans-serif', textAlign: 'center' }}>
+    <div>
       <h1>Open-Media-Project</h1>
-      <p style={{ fontSize: '1.2rem', color: '#0070f3' }}>{message}</p>
+      <p>{message}</p>
     </div>
   );
 }
