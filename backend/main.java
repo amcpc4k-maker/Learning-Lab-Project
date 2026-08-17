@@ -7,7 +7,8 @@ public class main {
           public String colorChoice = "";
           public double tempRange;
           public double durationLength;
-    
+          public String alertType = "":
+            
     
      }
   }
