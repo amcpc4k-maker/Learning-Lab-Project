@@ -8,7 +8,7 @@ public class main {
           public double tempRange;
           public double durationLength;
           public String alertType = "":
-            
+          public String actionType = "";
     
      }
   }
