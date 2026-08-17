@@ -12,7 +12,7 @@ Whether you're an experienced developer looking to share your knowledge or someo
 developing their skills through hands-on experience, there's a place for you here.
 
 The Lab's current Build: 
-We are designing an open-source safety and redactor media overlay that will be available on all operating systems, AppleIOS, Android, Windwos, Linux. This will be an extension that a user will grab from the repo and will "sit" within their browser. This overlay will have features that will detect if personal information, private keys or other credentials are being leaked through various networks and change the users screen a different colored and dimmed to alert them. This extension will also redact all private keys and api endpoints to protect internal/networking systems from intrusion. Users will be able to set predifined profiles with colors and notification sounds of their choosing to fit their lifestyle. 
+We are designing an open-source safety and redactor media overlay that will be available on all operating systems, AppleIOS, Android, Windwos, Linux. This will be an extension that a user will grab from the repo and will "sit" within their browser. This overlay will have features that will detect if personal information, private keys or other credentials are being leaked through various networks and change the users screen a different color and dimmed to alert users. This extension will also redact all private keys and api endpoints to protect internal/networking systems from intrusion. Users will be able to set predifined profiles with colors and notification sounds of their choosing to fit their lifestyle. 
 
 Technology
 Front-End:
