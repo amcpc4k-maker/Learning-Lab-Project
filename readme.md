@@ -33,7 +33,7 @@ FastAPI
 
 ###How to get Involved###
 
-1.Join a discussion
+1.Join a discussion or join the discord server - https://discord.gg/UcCfWxqPw
 
 2.Fork or Star the repo
 
