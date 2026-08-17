@@ -1,16 +1,18 @@
 
 
-
-
 ***Hot Topics & Trends***
 
 ===What is Mass Media?===
-
-
+the process of sharing messages, news, and entertainment with a very large group of people at the same time. 
+It uses tools like television, radio, the internet, and newspapers to connect a single sender to a wide, diverse audience.
 
 
 ===What is Java Programming?===
-
+Java is a highly popular, high-level, object-oriented programming language designed to have as few implementation dependencies as possible. 
+Released by Sun Microsystems in 1995, its defining philosophy is "Write Once, Run Anywhere" (WORA). This means that once you write and compile 
+Java code, it can run on any device or operating system that supports Java without needing to be rewritten or recompiled.
 
 
 ===What is an application programmable interface(API)?===
+API, or Application Programming Interface, is a set of rules and protocols that allows different 
+software applications to communicate and share data with one another.
